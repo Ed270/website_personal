@@ -1,4 +1,4 @@
-![Captura de tela 2025-04-29 135558](https://github.com/user-attachments/assets/ce175014-dfe6-4ffb-b15d-f1c1aca42ff3)# 💻 Portfólio Pessoal - Edmilson Faustino
+# 💻 Portfólio Pessoal - Edmilson Faustino
 
 Bem-vindo ao meu portfólio online! Este site foi desenvolvido com o objetivo de apresentar quem sou, as minhas competências técnicas e a minha jornada profissional na área de **Tecnologias de Informação**.
 
