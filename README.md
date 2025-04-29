@@ -1,4 +1,4 @@
-# 💻 Portfólio Pessoal - Edmilson Faustino
+![Captura de tela 2025-04-29 135558](https://github.com/user-attachments/assets/ce175014-dfe6-4ffb-b15d-f1c1aca42ff3)# 💻 Portfólio Pessoal - Edmilson Faustino
 
 Bem-vindo ao meu portfólio online! Este site foi desenvolvido com o objetivo de apresentar quem sou, as minhas competências técnicas e a minha jornada profissional na área de **Tecnologias de Informação**.
 
@@ -18,9 +18,9 @@ Este é um site pessoal simples e responsivo, criado com **HTML5** e **CSS3**, q
 
 - HTML5
 - CSS3
-- JavaScript (em breve)
+- JavaScript
 - Fontes e ícones SVG
-- Estrutura responsiva (em desenvolvimento)
+- Estrutura responsiva
 
 ## 🧰 Ferramentas e Frameworks que pretendo integrar
 
@@ -32,6 +32,10 @@ Este é um site pessoal simples e responsivo, criado com **HTML5** e **CSS3**, q
 ## 📸 Screenshot
 
 ![Captura de tela 2025-04-29 134849](https://github.com/user-attachments/assets/40ac155e-bb70-48ee-b7bd-74490e40d86a)
+
+![Captura de tela 2025-04-29 135529](https://github.com/user-attachments/assets/873c8c3b-9aa6-4a83-b29a-18967dfbecca)
+
+![Captura de tela 2025-04-29 135558](https://github.com/user-attachments/assets/b4da816d-5d4e-4291-ae37-4f16c5e59e19)
 
 
 ## 🚀 Como executar localmente
